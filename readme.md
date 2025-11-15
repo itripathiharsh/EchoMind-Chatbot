@@ -1,4 +1,4 @@
-# 🌱 EchoMind: A Lightweight, Offline Conversational AI with Contextual Memory
+#  EchoMind: A Lightweight, Offline Conversational AI with Contextual Memory
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD700?logo=huggingface&logoColor=black)
@@ -207,4 +207,5 @@ I build tools that put power back in the user’s hands.
 - 🌐 [GitHub Profile](https://github.com/itripathiharsh)
 
 > *Privacy. Performance. Simplicity.*
+
 
